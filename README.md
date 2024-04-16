@@ -1,5 +1,3 @@
-#About me 
-
 👋 Hi, I’m Shivani Jeevan.
 
 💼 I'm a data scientist based in London, currently looking to take up a new challenge.
